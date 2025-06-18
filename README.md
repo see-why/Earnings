@@ -1,4 +1,4 @@
-# Chill Shell
+# Chill Earnings
 
 A Ruby on Rails application for managing employee earnings and payroll data.
 
